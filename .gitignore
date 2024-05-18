@@ -3,3 +3,5 @@ myvenv
 model_spotify.pkl
 
 model_state_dict.pt
+
+*.csv
